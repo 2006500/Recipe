@@ -1,0 +1,432 @@
+.main_body{
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-bottom: 70px;
+    padding-top: 70px;
+}
+.background{
+    background-color: white;
+    border-radius: 1.5%;
+    /*height: 100%;
+    width: 100%;
+    padding-left: 60px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;*/
+}
+#omelette_image{
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    width: 700px;
+    height: 350px;
+    border-radius: 10%;
+}
+.main_heading{
+    font-family: serif;
+    font-size: 50px;
+    font-weight: 700;
+    padding-left: 32px;
+    padding-bottom: 30px;
+}
+#description{
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 200;
+    padding-left: 32px;
+    padding-bottom: 30px;
+}
+.Preparation_background{
+    padding-left: 32px;
+    padding-bottom: 30px;
+    border-radius: 5%;
+}
+.preparation_base{
+    background-color: rgb(250, 238, 250);
+    width: 650px;
+    padding-left: 32px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+#preparation_time{
+    font-family: sans-serif;
+    color: purple;
+    font-size: 22px;
+    font-weight: 600;
+    padding-left: 2px;
+    padding-bottom: 18px;
+    padding-top: 30px;
+}
+#prepartion_side{
+    display: flex;
+    justify-content: flex-start;
+}
+#first_side{
+    font-family: sans-serif;
+    color: rgb(81, 69, 69);
+    font-size: 13px;
+    font-weight: 250;
+    padding-left: 2px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+#Total{
+    padding-bottom: 0.5px;
+    padding-top: 0.5px;
+}
+#Prepartion{
+    padding-bottom: 0.5px;
+    padding-top: 0.5px;
+}
+#Cooking{
+    padding-bottom: 0.5px;
+    padding-top: 0px;
+}
+
+#ingredeints{
+    font-family: serif;
+    color: maroon;
+    font-size: 32px;
+    font-weight: 700;
+    padding-left: 36px;
+    padding-bottom: 10px;
+}
+#ingredeint_description{
+    display: flex;
+    justify-content: flex-start;
+}
+#right_side{
+    font-family: sans-serif;
+    color: rgb(81, 69, 69);
+    font-size: 14px;
+    font-weight: 100;
+    padding-top: 15px;
+    padding-left: 18px;
+    padding-bottom: 25px;
+}
+#large{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+}
+.dot{
+   font-family: sans-serif;
+   color: rgb(81, 69, 69);
+   font-size: 14px;
+   font-weight: 100;
+   padding-left: 12px;
+   padding-bottom: 25px;
+}
+#dot_one{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+}
+#dot_second{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+}
+#dot_third{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+}
+#dot_four{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+}
+#dot_five{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+}
+#line{
+    width: 700px;
+    padding-left: 20px;
+}
+#instruction_headline{
+    font-family: serif;
+   color: maroon;
+   font-size: 32px;
+   font-weight: 700;
+   padding-left: 32px;
+   padding-bottom: 10px;
+   padding-top: 30px;
+}
+.instruction_details{
+    display: flex;
+    justify-content: flex-start;
+}
+#numbers{
+    font-family: sans-serif;
+    color: maroon;
+    font-size: 16px;
+    font-weight: 100;
+    padding-top: 15px;
+    padding-left: 32px;
+    padding-bottom: 25px;
+}
+#one{
+    padding-top: 3.5px;
+    padding-bottom: 18px;
+}
+#two{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+}
+#three{
+    padding-top: 3.5px;
+    padding-bottom: 20px;
+}
+#four{
+    padding-top: 2px;
+    padding-bottom: 20px;
+}
+#five{
+    padding-top: 2px;
+    padding-bottom: 20px;
+}
+#six{
+    padding-top: 2px;
+    padding-bottom: 3.5px;
+}
+#instruction_content{
+    font-family: sans-serif;
+    color: rgb(81, 69, 69);
+    font-size: 14px;
+    font-weight: 100;
+    padding-top: 15px;
+    padding-left: 18px;
+    padding-bottom: 25px;
+}
+#first_instruction{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+}
+#second_instruction{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+}
+#third_instruction{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+}
+#fourth_instruction{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+}
+#fifth_instruction{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+}
+#sixth_instruction{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+}
+#nutrition_heading{
+   font-family: serif;
+   color: maroon;
+   font-size: 32px;
+   font-weight: 700;
+   padding-left: 32px;
+   padding-bottom: 10px;
+   padding-top: 30px;
+}
+#nutrition_passage{
+    font-family: sans-serif;
+    color: rgb(81, 69, 69);
+    font-size: 14px;
+    font-weight: 100;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-bottom: 25px;
+}
+#nutrition_table{
+    display: flex;
+    justify-content: flex-start;
+}
+#nutrition_first_side{
+    display: flex;
+    justify-content: space-between;
+    gap: clamp(12px, 3vw, 32px);
+    padding-inline: clamp(16px, 5vw, 64px);
+}
+#Calories{
+    font-family: sans-serif;
+    color: rgb(81, 69, 69);
+    font-size: 14px;
+    font-weight: 100;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-bottom: 10px;
+}
+#kcal{
+    font-family: sans-serif;
+    color: maroon;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#second_gram{
+    font-family: sans-serif;
+    color: maroon;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#third_gram{
+    font-family: sans-serif;
+    color: maroon;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#fourth_gram{
+    font-family: sans-serif;
+    color: maroon;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+/* Mobile view*/
+@media screen and (min-width: 375px) and (max-width: 1220px) {
+    .main_body{
+        padding: 0%;
+        padding-top: 0px;
+    }
+    .background{
+    border-radius: 0%;
+    }
+    #omelette_image{
+    width: auto;
+    }
+    #omelette_image img {
+    width: 100%;
+    height: 350px;
+    display: block;
+    }
+    .main_heading{
+    font-family: serif;
+    font-size: 35px;
+    font-weight: 700;
+    padding-top: 0px;
+    padding-left: 32px;
+    padding-bottom: 30px;
+    }
+    #description{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+    padding-left: 32px;
+    padding-bottom: 30px;
+    }
+    .Preparation_background{
+    padding-left: 32px;
+    padding-bottom: 30px;
+    border-radius: 5%;
+    padding-right: 38px;
+    }
+    .preparation_base{
+    background-color:  rgb(250, 238, 250);
+    width: auto;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    }
+    #prepartion_side{
+    display: flex;
+    justify-content: flex-start;
+    }
+    #preparation_time{
+    font-family: sans-serif;
+    color: rgb(117, 10, 117);
+    font-size: 22px;
+    font-weight: 600;
+    padding-left: 0px;
+    padding-bottom: 18px;
+    padding-top: 30px;
+    }
+    #first_side{
+    font-family: sans-serif;
+    color: rgb(81, 69, 69);
+    font-size: 16px;
+    font-weight: 100;
+    padding-left: 2px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    }
+    #Total{
+    padding-bottom: 0.5px;
+    padding-top: 0.5px;
+    }
+    #Prepartion{
+    padding-bottom: 0.5px;
+    padding-top: 0.5px;
+    }
+    #Cooking{
+    padding-bottom: 0.5px;
+    padding-top: 0px;
+    }
+    #line{
+        width: auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-weight: lighter;
+
+    }
+    #one{
+    padding-top: 3.5px;
+    padding-bottom: 50px;
+    }
+    #two{
+    padding-top: 5px;
+    padding-bottom: 20.5px;
+    }
+    #three{
+    padding-top: 3.5px;
+    padding-bottom: 50px;
+    }
+    #four{
+    padding-top: 5px;
+    padding-bottom: 20px;
+    }
+    #five{
+    padding-top: 35px;
+    padding-bottom: 40px;
+    }
+    #six{
+    padding-top: 15px;
+    padding-bottom: 3.5px;
+    }   
+    #first_instruction{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+    padding-right: 5px;
+    }
+    #second_instruction{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+    padding-right: 5px;
+    }
+    #third_instruction{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+    padding-right: 5px;
+    }
+    #fourth_instruction{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+    padding-right: 5px;
+    }
+    #fifth_instruction{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+    padding-right: 5px;
+    }
+    #sixth_instruction{
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+    padding-right: 5px;
+    }
+}
+
